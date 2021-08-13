@@ -20,8 +20,8 @@
 ### **[vvv.code.blog](https://vvv.code.blog)**
 
 ### Registration on CFTF Classroom
-### **[classroom.google.com/cftf](https://classroom.google.com/cftf)**
+### **[classroom.google.com/cftf](https://classroom.google.com/u/0/c/Mzc3OTUxMjQ5MjI1)**
 
-Michael Weber
+**Michael Weber**
 
 Copyright © 2021 CFTF
