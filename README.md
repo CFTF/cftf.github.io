@@ -17,7 +17,7 @@
 
 **Find out my skills on my Website.**
 
-### **[vvv.code.blog](https://vvv.code.blog)**
+### <a href="https://vvv.code.blog" target="_blank">vvv.code.blog</a>
 
 ### Registration on CFTF Classroom
 ### **[classroom.google.com/cftf](https://classroom.google.com/u/0/c/Mzc3OTUxMjQ5MjI1)**
